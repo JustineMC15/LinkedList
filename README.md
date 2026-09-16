@@ -1,7 +1,7 @@
 # LinkedList
 Singly Linked List
 
-##Supports the following:##
+#Supports the following:#
 
 print_list
 append
